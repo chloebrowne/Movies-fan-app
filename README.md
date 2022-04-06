@@ -7,8 +7,8 @@ Name: Chloe Browne
 
 ### Features.
 
-+ 
-+ 
++ Added Top rated page
++ Added Popular Page
 + 
 + 
 + 
@@ -20,7 +20,7 @@ Name: Chloe Browne
 ## API endpoints.
 
 + Top rated movies - /movie/top_rated
-+ 
++ Popluar Movies - /movie/popular
 + 
 
 ## Routing.
